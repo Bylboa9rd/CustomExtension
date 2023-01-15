@@ -7,7 +7,7 @@ namespace MyCustomExtensions
 {
     public static class MyExtensions
     {
-        //oy2nijzqa2prbke6kdja2bvibtierguevfos3u32iirlpu
+        
         public static void Display<T>(T t) => Console.WriteLine(t);
         public static void ProcessItems<T>(this IEnumerable<T> items)
         {
