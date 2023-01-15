@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>MyCustomExtensions159</id>
+    <version>1.0.1</version>
+    <title>Custom Extenstion</title>
+    <authors>Goodness</authors>
+    <readme>License.md</readme>
+    <description>Handles a list of integers and displays the sum of all positive integers, and more :)</description>
+    <repository url="https://github.com/Bylboa9rd/Here" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\KALU'S PC\source\repos\MyCustomExtensions\bin\Debug\netstandard2.1\MyCustomExtensions.dll" target="lib\netstandard2.1\MyCustomExtensions.dll" />
+    <file src="C:\Users\KALU'S PC\source\repos\CustomExtensions\License.md" target="\License.md" />
+  </files>
+</package>

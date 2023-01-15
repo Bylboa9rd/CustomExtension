@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <Nullable>enable</Nullable>
+    <AssemblyName>MyCustomExtensions</AssemblyName>
+    <RootNamespace>MyCustomExtensions</RootNamespace>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <PackageId>MyCustomExtensions159</PackageId>
+    <Title>Custom Extenstion</Title>
+    <Version>1.0.1</Version>
+    <Authors>Goodness</Authors>
+    <Company>Genesys Techhub</Company>
+    <Product>MyCustomExtensions</Product>
+    <Description>Handles a list of integers and displays the sum of all positive integers, and more :)</Description>
+    <PackageProjectUrl></PackageProjectUrl>
+    <PackageReadmeFile>License.md</PackageReadmeFile>
+    <RepositoryUrl>https://github.com/Bylboa9rd/Here</RepositoryUrl>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\CustomExtensions\License.md">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>

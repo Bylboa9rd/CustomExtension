@@ -1,0 +1,10 @@
+C:\Users\KALU'S PC\source\repos\MyCustomExtensions\bin\Debug\netstandard2.1\MyCustomExtensions.deps.json
+C:\Users\KALU'S PC\source\repos\MyCustomExtensions\bin\Debug\netstandard2.1\MyCustomExtensions.dll
+C:\Users\KALU'S PC\source\repos\MyCustomExtensions\bin\Debug\netstandard2.1\MyCustomExtensions.pdb
+C:\Users\KALU'S PC\source\repos\MyCustomExtensions\obj\Debug\netstandard2.1\MyCustomExtensions.csproj.AssemblyReference.cache
+C:\Users\KALU'S PC\source\repos\MyCustomExtensions\obj\Debug\netstandard2.1\MyCustomExtensions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KALU'S PC\source\repos\MyCustomExtensions\obj\Debug\netstandard2.1\MyCustomExtensions.AssemblyInfoInputs.cache
+C:\Users\KALU'S PC\source\repos\MyCustomExtensions\obj\Debug\netstandard2.1\MyCustomExtensions.AssemblyInfo.cs
+C:\Users\KALU'S PC\source\repos\MyCustomExtensions\obj\Debug\netstandard2.1\MyCustomExtensions.csproj.CoreCompileInputs.cache
+C:\Users\KALU'S PC\source\repos\MyCustomExtensions\obj\Debug\netstandard2.1\MyCustomExtensions.dll
+C:\Users\KALU'S PC\source\repos\MyCustomExtensions\obj\Debug\netstandard2.1\MyCustomExtensions.pdb
