@@ -9,23 +9,24 @@ namespace MyCustomExtensions
     {
         
         public static void Display<T>(T t) => Console.WriteLine(t);
+        
         public static void ProcessItems<T>(this IEnumerable<T> items)
         {
             switch (items)
             {
                 case IEnumerable<int> ints:
-                    Integers();
+                    SumAllPositiveIntegers();
                     break;
                 case IEnumerable<string> strings:
-                    Strings();
+                    StringDivider();
                     break;
                 default:
-                    Display("Invalid input.");
+                    Display("Sorry, this was built only for types of integers or strings.");
                     break;
             }
 
 
-            void Integers()
+            void SumAllPositiveIntegers()
             {
                 var positiveNumbers = items.OfType<int>().Where(x => x > 0);
 
@@ -41,8 +42,7 @@ namespace MyCustomExtensions
                 }
             }
 
-
-            void Strings()
+            void StringDivider()
             {
                 foreach (var item in items)
                 {
